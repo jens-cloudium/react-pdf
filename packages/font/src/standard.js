@@ -11,4 +11,8 @@ export default [
   'Times-Bold',
   'Times-Italic',
   'Times-BoldItalic',
+  'Gelasio',
+  'Gelasio-Italic',
+  'Gelasio-Bold',
+  'Gelasio-BoldItalic'
 ];
