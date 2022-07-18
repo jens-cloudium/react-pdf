@@ -144,7 +144,8 @@ function parse(contents) {
         if (!/^CH?\s/.test(line)) {
           continue;
         }
-        var name = line.match(/\bN\s+(\.?\w+)\s*;/)[1];
+        // var name = line.match(/\bN\s+(\.?\w+)\s*;/)[1];
+        var name = line.match(/\bN\s+(.?\.?[\w.]+)\s*;/)[1];
         obj.glyphWidths[name] = +line.match(/\bWX\s+(\d+)\s*;/)[1];
         break;
 

@@ -19,7 +19,7 @@ const generateJsonFiles = () => {
 };
 
 // Order is designed to produce the smaller size possible
-const COMPRESS_ORDER = ['Helvetica', 'Times', 'Courier'];
+const COMPRESS_ORDER = ['Helvetica', 'Times', 'Courier', 'Gelasio'];
 
 const readJson = file => {
   const data = fs.readFileSync(__dirname + '/' + file, 'utf8');
