@@ -1,4 +1,4 @@
-# @react-pdf/fns
+# @ascellus-pdf/fns
 
 ## 1.0.0
 ### Major Changes

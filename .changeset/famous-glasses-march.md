@@ -1,14 +1,14 @@
 ---
-'@react-pdf/fns': major
-'@react-pdf/pdfkit': major
-'@react-pdf/stylesheet': major
-'@react-pdf/yoga': major
-'@react-pdf/font': minor
-'@react-pdf/image': minor
-'@react-pdf/layout': minor
-'@react-pdf/png-js': minor
-'@react-pdf/renderer': minor
-'@react-pdf/textkit': minor
+'@ascellus-pdf/fns': major
+'@ascellus-pdf/pdfkit': major
+'@ascellus-pdf/stylesheet': major
+'@ascellus-pdf/yoga': major
+'@ascellus-pdf/font': minor
+'@ascellus-pdf/image': minor
+'@ascellus-pdf/layout': minor
+'@ascellus-pdf/png-js': minor
+'@ascellus-pdf/renderer': minor
+'@ascellus-pdf/textkit': minor
 ---
 
 feat: compatibility with modern web bundlers and browsers

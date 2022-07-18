@@ -1,4 +1,4 @@
-import * as P from '@react-pdf/primitives';
+import * as P from '@ascellus-pdf/primitives';
 import renderSvg from './renderSvg';
 import renderText from './renderText';
 import renderPage from './renderPage';

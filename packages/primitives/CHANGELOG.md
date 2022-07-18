@@ -1,4 +1,4 @@
-# @react-pdf/primitives
+# @ascellus-pdf/primitives
 
 ## 3.0.1
 

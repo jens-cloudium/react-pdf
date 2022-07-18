@@ -1,5 +1,5 @@
 ---
-'@react-pdf/renderer': patch
+'@ascellus-pdf/renderer': patch
 ---
 
 fix: bad type on onClick

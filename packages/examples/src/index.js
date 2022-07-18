@@ -1,8 +1,8 @@
-import './index.css';
+// import './index.css';
 
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { PDFViewer } from '@react-pdf/renderer';
+import { PDFViewer } from '@ascellus-pdf/renderer';
 
 import Svg from './svg';
 import GoTo from './goTo';

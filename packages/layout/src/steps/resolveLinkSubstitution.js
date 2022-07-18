@@ -1,5 +1,5 @@
-import * as P from '@react-pdf/primitives';
-import { compose } from '@react-pdf/fns';
+import * as P from '@ascellus-pdf/primitives';
+import { compose } from '@ascellus-pdf/fns';
 
 const isType = type => node => node.type === type;
 

@@ -1,4 +1,4 @@
-# @react-pdf/yoga
+# @ascellus-pdf/yoga
 
 ## 2.0.4
 ### Patch Changes

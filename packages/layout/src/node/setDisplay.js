@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@ascellus-pdf/yoga';
 
 /**
  * Set display attribute to node's Yoga instance

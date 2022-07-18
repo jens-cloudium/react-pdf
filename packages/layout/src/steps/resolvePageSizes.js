@@ -1,4 +1,4 @@
-import { flatten } from '@react-pdf/stylesheet';
+import { flatten } from '@ascellus-pdf/stylesheet';
 import getPageSize from '../page/getSize';
 
 /**

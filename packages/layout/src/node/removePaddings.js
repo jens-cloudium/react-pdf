@@ -1,4 +1,4 @@
-import { omit } from '@react-pdf/fns';
+import { omit } from '@ascellus-pdf/fns';
 
 import setPadding from './setPadding';
 

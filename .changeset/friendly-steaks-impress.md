@@ -1,5 +1,5 @@
 ---
-'@react-pdf/layout': patch
+'@ascellus-pdf/layout': patch
 ---
 
 refactor: yoga node prop name

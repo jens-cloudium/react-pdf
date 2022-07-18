@@ -1,6 +1,6 @@
-import Yoga from '@react-pdf/yoga';
-import * as P from '@react-pdf/primitives';
-import { isNil, compose } from '@react-pdf/fns';
+import Yoga from '@ascellus-pdf/yoga';
+import * as P from '@ascellus-pdf/primitives';
+import { isNil, compose } from '@ascellus-pdf/fns';
 
 import getMargin from '../node/getMargin';
 import getPadding from '../node/getPadding';

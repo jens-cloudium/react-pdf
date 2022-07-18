@@ -1,5 +1,5 @@
 ---
-'@react-pdf/font': patch
+'@ascellus-pdf/font': patch
 ---
 
 fix: ability to load fonts by relative URL in browsers
