@@ -1,4 +1,4 @@
-import { adjust, dropLast as arrayDropLast } from '@ascellus-pdf/fns';
+import { adjust, dropLast as arrayDropLast } from '@jens-2020/fns';
 
 import runDropLast from '../run/dropLast';
 

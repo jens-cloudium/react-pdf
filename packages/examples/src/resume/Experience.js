@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 
 import React from 'react';
-import { Text, View, StyleSheet } from '@ascellus-pdf/renderer';
+import { Text, View, StyleSheet } from '@jens-2020/renderer';
 
 import Title from './Title';
 import List, { Item } from './List';

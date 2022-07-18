@@ -1,4 +1,4 @@
-import { capitalize, upperFirst } from '@ascellus-pdf/fns';
+import { capitalize, upperFirst } from '@jens-2020/fns';
 
 /**
  * Apply transformation to text string

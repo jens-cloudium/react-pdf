@@ -1,4 +1,4 @@
-import { isNil } from '@ascellus-pdf/fns';
+import { isNil } from '@jens-2020/fns';
 
 /**
  * Set aspect ratio attribute to node's Yoga instance

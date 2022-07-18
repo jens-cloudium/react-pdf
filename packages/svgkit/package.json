@@ -1,5 +1,5 @@
 {
-  "name": "@ascellus-pdf/svgkit",
+  "name": "@jens-2020/svgkit",
   "license": "MIT",
   "version": "2.2.0",
   "description": "A SVG generation library for Node.js and browser",
@@ -22,6 +22,6 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@ascellus-pdf/pdfkit": "^2.2.0"
+    "@jens-2020/pdfkit": "^2.2.0"
   }
 }

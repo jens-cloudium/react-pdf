@@ -10,7 +10,7 @@ import {
   Tspan,
   LinearGradient,
   Stop,
-} from '@ascellus-pdf/renderer';
+} from '@jens-2020/renderer';
 
 const Svg2 = () => (
   <Svg width="400" viewBox="0 0 600 400">

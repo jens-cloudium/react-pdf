@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
 </p>
 
-# @ascellus-pdf/yoga
+# @jens-2020/yoga
 
 > Prebuilt [yoga-layout](https://github.com/facebook/yoga) package with memory heap increase
 
@@ -15,12 +15,12 @@ Also thanks to @Skywalker13 for providing the post-processing script for increas
 ## Install
 
 ```
-$ npm install @ascellus-pdf/yoga
+$ npm install @jens-2020/yoga
 ```
 
 ## Usage
 
 ```js
-import Yoga from '@ascellus-pdf/yoga';
+import Yoga from '@jens-2020/yoga';
 // Same as if imported from yoga-layout
 ```

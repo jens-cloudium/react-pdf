@@ -1,5 +1,5 @@
 {
-  "name": "@ascellus-pdf/examples",
+  "name": "@jens-2020/examples",
   "version": "2.0.1",
   "license": "MIT",
   "private": true,
@@ -11,7 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@ascellus-pdf/renderer": "^2.1.2",
+    "@jens-2020/renderer": "^2.1.2",
     "camelcase": "^6.2.0"
   },
   "peerDependencies": {

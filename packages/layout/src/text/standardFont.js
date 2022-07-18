@@ -1,6 +1,6 @@
 /* eslint-disable class-methods-use-this */
 
-import { PDFFont } from '@ascellus-pdf/pdfkit';
+import { PDFFont } from '@jens-2020/pdfkit';
 
 class StandardFont {
   constructor(src) {

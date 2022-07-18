@@ -1,4 +1,4 @@
-import { isNil } from '@ascellus-pdf/fns';
+import { isNil } from '@jens-2020/fns';
 
 import copyRect from '../rect/copy';
 import cropRect from '../rect/crop';

@@ -1,5 +1,5 @@
-import * as P from '@ascellus-pdf/primitives';
-import { isNil } from '@ascellus-pdf/fns';
+import * as P from '@jens-2020/primitives';
+import { isNil } from '@jens-2020/fns';
 
 import renderPath from './renderPath';
 import renderRect from './renderRect';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Page, Document } from '@ascellus-pdf/renderer';
+import { Page, Document } from '@jens-2020/renderer';
 
 import Fractal from './Fractal';
 

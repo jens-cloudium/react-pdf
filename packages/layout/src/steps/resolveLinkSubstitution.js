@@ -1,5 +1,5 @@
-import * as P from '@ascellus-pdf/primitives';
-import { compose } from '@ascellus-pdf/fns';
+import * as P from '@jens-2020/primitives';
+import { compose } from '@jens-2020/fns';
 
 const isType = type => node => node.type === type;
 

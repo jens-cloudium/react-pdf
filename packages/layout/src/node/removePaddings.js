@@ -1,4 +1,4 @@
-import { omit } from '@ascellus-pdf/fns';
+import { omit } from '@jens-2020/fns';
 
 import setPadding from './setPadding';
 

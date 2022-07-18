@@ -1,4 +1,4 @@
-# @ascellus-pdf/png-js
+# @jens-2020/png-js
 
 ## 2.1.0
 ### Minor Changes

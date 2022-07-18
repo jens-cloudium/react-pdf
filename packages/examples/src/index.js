@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { PDFViewer } from '@ascellus-pdf/renderer';
+import { PDFViewer } from '@jens-2020/renderer';
 
 import Svg from './svg';
 import GoTo from './goTo';

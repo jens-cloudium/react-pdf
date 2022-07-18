@@ -1,4 +1,4 @@
-import { compose } from '@ascellus-pdf/fns';
+import { compose } from '@jens-2020/fns';
 
 import wrapWords from './wrapWords';
 import typesetter from './typesetter';

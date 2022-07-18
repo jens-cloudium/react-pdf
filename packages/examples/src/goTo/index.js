@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { Page, Document, Link, View, Image } from '@ascellus-pdf/renderer';
+import { Page, Document, Link, View, Image } from '@jens-2020/renderer';
 
 export default () => (
   <Document>

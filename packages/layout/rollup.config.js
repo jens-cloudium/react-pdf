@@ -17,7 +17,7 @@ const configBase = {
   input: 'src/index.js',
   external: Object.keys(pkg.dependencies).concat(
     /@babel\/runtime/,
-    /@ascellus-pdf/,
+    /@jens-2020/,
   ),
   plugins: [
     babel({

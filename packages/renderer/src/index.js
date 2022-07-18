@@ -1,7 +1,7 @@
-import FontStore from '@ascellus-pdf/font';
-import renderPDF from '@ascellus-pdf/render';
-import PDFDocument from '@ascellus-pdf/pdfkit';
-import layoutDocument from '@ascellus-pdf/layout';
+import FontStore from '@jens-2020/font';
+import renderPDF from '@jens-2020/render';
+import PDFDocument from '@jens-2020/pdfkit';
+import layoutDocument from '@jens-2020/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';

@@ -1,4 +1,4 @@
-# @ascellus-pdf/types
+# @jens-2020/types
 
 ## 2.1.0
 

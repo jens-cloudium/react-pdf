@@ -1,12 +1,6 @@
-import * as P from '@ascellus-pdf/primitives';
-import { transformColor, processTransform } from '@ascellus-pdf/stylesheet';
-import {
-  pick,
-  evolve,
-  compose,
-  mapValues,
-  matchPercent,
-} from '@ascellus-pdf/fns';
+import * as P from '@jens-2020/primitives';
+import { transformColor, processTransform } from '@jens-2020/stylesheet';
+import { pick, evolve, compose, mapValues, matchPercent } from '@jens-2020/fns';
 
 import layoutText from '../svg/layoutText';
 import replaceDefs from '../svg/replaceDefs';

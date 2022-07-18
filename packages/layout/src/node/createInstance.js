@@ -1,5 +1,5 @@
-import { castArray } from '@ascellus-pdf/fns';
-import { TextInstance } from '@ascellus-pdf/primitives';
+import { castArray } from '@jens-2020/fns';
+import { TextInstance } from '@jens-2020/primitives';
 
 const isString = value => typeof value === 'string';
 

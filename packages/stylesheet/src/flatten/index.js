@@ -1,4 +1,4 @@
-import { compose, castArray } from '@ascellus-pdf/fns';
+import { compose, castArray } from '@jens-2020/fns';
 
 /**
  * Remove nil values from array

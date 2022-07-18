@@ -1,11 +1,11 @@
-import * as P from '@ascellus-pdf/primitives';
+import * as P from '@jens-2020/primitives';
 import layoutEngine, {
   linebreaker,
   justification,
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from '@ascellus-pdf/textkit';
+} from '@jens-2020/textkit';
 
 import fromFragments from '../text/fromFragments';
 import transformText from '../text/transformText';

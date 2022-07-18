@@ -7,7 +7,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@ascellus-pdf/renderer';
+} from '@jens-2020/renderer';
 
 import Header from './Header';
 import Skills from './Skills';

@@ -1,5 +1,5 @@
 {
-  "name": "@ascellus-pdf/font",
+  "name": "@jens-2020/font",
   "version": "2.2.1",
   "license": "MIT",
   "description": "Register font and emoji source for react-pdf document",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@ascellus-pdf/types": "^2.0.9",
+    "@jens-2020/types": "^2.0.9",
     "base64-to-uint8array": "^1.0.0",
     "cross-fetch": "^3.1.5",
     "fontkit": "^2.0.2",

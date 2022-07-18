@@ -1,4 +1,4 @@
-import { isNil, last } from '@ascellus-pdf/fns';
+import { isNil, last } from '@jens-2020/fns';
 
 /**
  * Append glyph indices with given length

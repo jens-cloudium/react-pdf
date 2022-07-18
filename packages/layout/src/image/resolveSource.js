@@ -1,5 +1,5 @@
 /**
- * Resolves `src` to `@ascellus-pdf/image` interface.
+ * Resolves `src` to `@jens-2020/image` interface.
  *
  * Also it handles factories and async sources.
  *

@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import Yoga from '@ascellus-pdf/yoga';
+import Yoga from '@jens-2020/yoga';
 
 import layoutText from './layoutText';
 import linesWidth from './linesWidth';

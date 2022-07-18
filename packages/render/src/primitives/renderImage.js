@@ -1,4 +1,4 @@
-import { isNil } from '@ascellus-pdf/fns';
+import { isNil } from '@jens-2020/fns';
 
 import clipNode from '../operations/clipNode';
 import resolveObjectFit from '../utils/resolveObjectFit';

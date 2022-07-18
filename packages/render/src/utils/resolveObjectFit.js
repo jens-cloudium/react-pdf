@@ -1,4 +1,4 @@
-import { matchPercent } from '@ascellus-pdf/fns';
+import { matchPercent } from '@jens-2020/fns';
 
 const isNumeric = n => {
   return !Number.isNaN(parseFloat(n)) && Number.isFinite(n);

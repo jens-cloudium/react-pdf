@@ -2,20 +2,20 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
 </p>
 
-# @ascellus-pdf/render
+# @jens-2020/render
 
 > React-pdf render engine
 
 ## How to install
 ```sh
-yarn add @ascellus-pdf/render
+yarn add @jens-2020/render
 ```
 
 ## How it works
 
 ```js
-const render = require('@ascellus-pdf/render');
-const primitives = require('@ascellus-pdf/primitives');
+const render = require('@jens-2020/render');
+const primitives = require('@jens-2020/primitives');
 
 const view = {
   type: primitives.View,
@@ -74,7 +74,7 @@ Bare in mind this package does not handle any type of node positioning, inherita
 
 ### node.type
 
-Mandatory field specifiying the type of the particular node. The full list of types can be found and imported from `@ascellus-pdf/primitives`
+Mandatory field specifiying the type of the particular node. The full list of types can be found and imported from `@jens-2020/primitives`
 
 ### node.box
 
@@ -123,8 +123,8 @@ Specific node params needed to render correctly ot behave like certain way. Spec
 
 ```js
 const fs = require('fs');
-const render = require('@ascellus-pdf/render');
-const pdfkit = require('@ascellus-pdf/pdfkit');
+const render = require('@jens-2020/render');
+const pdfkit = require('@jens-2020/pdfkit');
 
 const PDFDocument = pdfkit.default;
 

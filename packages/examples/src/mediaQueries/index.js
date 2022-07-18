@@ -1,5 +1,5 @@
 import React from 'react';
-import { Document, Page, View, StyleSheet } from '@ascellus-pdf/renderer';
+import { Document, Page, View, StyleSheet } from '@jens-2020/renderer';
 
 const styles = StyleSheet.create({
   body: {

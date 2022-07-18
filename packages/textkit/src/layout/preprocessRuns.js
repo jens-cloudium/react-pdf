@@ -1,4 +1,4 @@
-import { isNil } from '@ascellus-pdf/fns';
+import { isNil } from '@jens-2020/fns';
 
 import omit from '../run/omit';
 import flatten from '../run/flatten';

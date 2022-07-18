@@ -2,7 +2,7 @@
 /* eslint-disable no-restricted-syntax */
 /* eslint-disable class-methods-use-this */
 
-// import { PDFFont } from '@ascellus-pdf/pdfkit';
+// import { PDFFont } from '@jens-2020/pdfkit';
 
 import SVGPage from '../page';
 import serialize from './serialize';

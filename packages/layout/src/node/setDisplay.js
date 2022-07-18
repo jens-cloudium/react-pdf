@@ -1,4 +1,4 @@
-import Yoga from '@ascellus-pdf/yoga';
+import Yoga from '@jens-2020/yoga';
 
 /**
  * Set display attribute to node's Yoga instance

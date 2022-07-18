@@ -6,7 +6,7 @@ import {
   Circle,
   LinearGradient,
   RadialGradient,
-} from '@ascellus-pdf/renderer';
+} from '@jens-2020/renderer';
 
 const Svg4 = () => (
   <Svg viewBox="0 0 10 20" width="170">

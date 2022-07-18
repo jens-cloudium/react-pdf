@@ -1,4 +1,4 @@
-import { flatten } from '@ascellus-pdf/stylesheet';
+import { flatten } from '@jens-2020/stylesheet';
 import getPageSize from '../page/getSize';
 
 /**

@@ -1,5 +1,5 @@
 {
-  "name": "@ascellus-pdf/pdfkit",
+  "name": "@jens-2020/pdfkit",
   "version": "2.4.0",
   "description": "A PDF generation library for Node.js",
   "main": "./lib/pdfkit.cjs.js",
@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@ascellus-pdf/png-js": "^2.1.0",
+    "@jens-2020/png-js": "^2.1.0",
     "browserify-zlib": "^0.2.0",
     "crypto-js": "^4.0.0",
     "fontkit": "^2.0.2",

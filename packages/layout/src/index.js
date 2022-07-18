@@ -1,4 +1,4 @@
-import { asyncCompose } from '@ascellus-pdf/fns';
+import { asyncCompose } from '@jens-2020/fns';
 
 import resolveSvg from './steps/resolveSvg';
 import resolveZIndex from './steps/resolveZIndex';

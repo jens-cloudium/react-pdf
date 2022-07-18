@@ -1,6 +1,6 @@
-import Yoga from '@ascellus-pdf/yoga';
-import * as P from '@ascellus-pdf/primitives';
-import { isNil, compose } from '@ascellus-pdf/fns';
+import Yoga from '@jens-2020/yoga';
+import * as P from '@jens-2020/primitives';
+import { isNil, compose } from '@jens-2020/fns';
 
 import getMargin from '../node/getMargin';
 import getPadding from '../node/getPadding';

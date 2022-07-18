@@ -1,5 +1,5 @@
 import zlib from 'zlib';
-import PNG from '@ascellus-pdf/png-js';
+import PNG from '@jens-2020/png-js';
 
 class PNGImage {
   constructor(data, label) {

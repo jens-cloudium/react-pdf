@@ -1,5 +1,5 @@
-import * as P from '@ascellus-pdf/primitives';
-import stylesheet from '@ascellus-pdf/stylesheet';
+import * as P from '@jens-2020/primitives';
+import stylesheet from '@jens-2020/stylesheet';
 
 const isLink = node => node.type === P.Link;
 

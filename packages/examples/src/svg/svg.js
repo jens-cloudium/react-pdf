@@ -1,5 +1,5 @@
 import React from 'react';
-import { Svg, G, Polygon } from '@ascellus-pdf/renderer';
+import { Svg, G, Polygon } from '@jens-2020/renderer';
 
 const Tiger = () => (
   <Svg style={{ width: 400, height: 400 }}>

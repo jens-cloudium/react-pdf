@@ -1,4 +1,4 @@
-import { last } from '@ascellus-pdf/fns';
+import { last } from '@jens-2020/fns';
 
 import runTrailingOffset from '../run/trailingOffset';
 

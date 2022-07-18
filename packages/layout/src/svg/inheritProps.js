@@ -1,4 +1,4 @@
-import { pick } from '@ascellus-pdf/fns';
+import { pick } from '@jens-2020/fns';
 
 const SVG_INHERITED_PROPS = [
   'x',

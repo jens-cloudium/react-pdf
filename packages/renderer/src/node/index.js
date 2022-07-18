@@ -1,4 +1,4 @@
-import * as primitives from '@ascellus-pdf/primitives';
+import * as primitives from '@jens-2020/primitives';
 
 import renderToFile from './renderToFile';
 import renderToStream from './renderToStream';
@@ -37,7 +37,7 @@ export * from './renderToStream';
 
 export * from './renderToString';
 
-export * from '@ascellus-pdf/primitives';
+export * from '@jens-2020/primitives';
 
 export default {
   pdf,

@@ -1,4 +1,4 @@
-import { isNil, matchPercent } from '@ascellus-pdf/fns';
+import { isNil, matchPercent } from '@jens-2020/fns';
 
 /**
  * Transform percent height into fixed

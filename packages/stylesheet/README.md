@@ -2,20 +2,20 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
 </p>
 
-# @ascellus-pdf/stylesheet
+# @jens-2020/stylesheet
 
 > React-pdf styles engine
 
 ## How to install
 
 ```sh
-yarn add @ascellus-pdf/stylesheet
+yarn add @jens-2020/stylesheet
 ```
 
 ## How it works
 
 ```js
-const stylesheet = require('@ascellus-pdf/stylesheet');
+const stylesheet = require('@jens-2020/stylesheet');
 
 const container = {
   width: 400,

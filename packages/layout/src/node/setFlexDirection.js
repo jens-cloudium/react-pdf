@@ -1,4 +1,4 @@
-import Yoga from '@ascellus-pdf/yoga';
+import Yoga from '@jens-2020/yoga';
 
 const FLEX_DIRECTIONS = {
   row: Yoga.FLEX_DIRECTION_ROW,

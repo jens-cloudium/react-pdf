@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import resolveImage from '@ascellus-pdf/image';
+import resolveImage from '@jens-2020/image';
 
 import getSource from './getSource';
 import resolveSource from './resolveSource';

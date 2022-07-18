@@ -1,4 +1,4 @@
-import PNG from '@ascellus-pdf/png-js';
+import PNG from '@jens-2020/png-js';
 
 PNG.isValid = function(data) {
   try {

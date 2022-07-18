@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link, Text, View, StyleSheet } from '@ascellus-pdf/renderer';
+import { Link, Text, View, StyleSheet } from '@jens-2020/renderer';
 
 const styles = StyleSheet.create({
   container: {

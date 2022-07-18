@@ -1,5 +1,5 @@
 import React from 'react';
-import { Rect, Svg, G, Path, Text, Tspan } from '@ascellus-pdf/renderer';
+import { Rect, Svg, G, Path, Text, Tspan } from '@jens-2020/renderer';
 
 const Svg1 = () => (
   <Svg width="400" viewBox="0 0 600 400">

@@ -9,7 +9,7 @@ import {
   Link,
   Font,
   StyleSheet,
-} from '@ascellus-pdf/renderer';
+} from '@jens-2020/renderer';
 
 const styles = StyleSheet.create({
   title: {

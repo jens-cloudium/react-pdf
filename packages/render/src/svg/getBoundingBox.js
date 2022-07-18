@@ -1,4 +1,4 @@
-import * as P from '@ascellus-pdf/primitives';
+import * as P from '@jens-2020/primitives';
 import absPath from 'abs-svg-path';
 import parsePath from 'parse-svg-path';
 import normalizePath from 'normalize-svg-path';

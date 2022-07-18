@@ -1,5 +1,5 @@
-import Yoga from '@ascellus-pdf/yoga';
-import { isNil } from '@ascellus-pdf/fns';
+import Yoga from '@jens-2020/yoga';
+import { isNil } from '@jens-2020/fns';
 
 const OVERFLOW = {
   hidden: Yoga.OVERFLOW_HIDDEN,

@@ -1,4 +1,4 @@
-import { evolve, matchPercent } from '@ascellus-pdf/fns';
+import { evolve, matchPercent } from '@jens-2020/fns';
 
 /**
  *

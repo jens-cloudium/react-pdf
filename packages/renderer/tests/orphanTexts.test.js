@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-curly-brace-presence */
 import React from 'react';
-import { Text, Document, Page } from '@ascellus-pdf/primitives';
+import { Text, Document, Page } from '@jens-2020/primitives';
 import renderToImage from './renderComponent';
 
 const emptyString = '';

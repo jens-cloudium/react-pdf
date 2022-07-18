@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-expressions */
-import Yoga from '@ascellus-pdf/yoga';
-import { isNil, upperFirst, matchPercent } from '@ascellus-pdf/fns';
+import Yoga from '@jens-2020/yoga';
+import { isNil, upperFirst, matchPercent } from '@jens-2020/fns';
 
 /**
  * Set generic yoga attribute to node's Yoga instance, handing `auto`, edges and percentage cases

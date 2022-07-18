@@ -17,7 +17,7 @@ const getESM = override => Object.assign({}, esm, override);
 
 const input = 'src/index.js';
 
-const getExternal = () => [...Object.keys(pkg.dependencies), /@ascellus-pdf/];
+const getExternal = () => [...Object.keys(pkg.dependencies), /@jens-2020/];
 
 const getPlugins = () => [
   localResolve(),

@@ -1,6 +1,6 @@
 import hyphen from 'hyphen';
 import pattern from 'hyphen/patterns/en-us';
-import { isNil } from '@ascellus-pdf/fns';
+import { isNil } from '@jens-2020/fns';
 
 const SOFT_HYPHEN = '\u00ad';
 const hyphenator = hyphen(pattern);

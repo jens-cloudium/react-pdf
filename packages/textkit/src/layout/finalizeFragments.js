@@ -1,4 +1,4 @@
-import { last, compose } from '@ascellus-pdf/fns';
+import { last, compose } from '@jens-2020/fns';
 
 import runHeight from '../run/height';
 import runAscent from '../run/ascent';

@@ -1,4 +1,4 @@
-import { get } from '@ascellus-pdf/fns';
+import { get } from '@jens-2020/fns';
 
 import lineIndexAtHeight from './lineIndexAtHeight';
 import heightAtLineIndex from './heightAtLineIndex';

@@ -1,4 +1,4 @@
-import * as P from '@ascellus-pdf/primitives';
+import * as P from '@jens-2020/primitives';
 
 import createCTX from '../ctx';
 import setDestination from '../../src/operations/setDestination';

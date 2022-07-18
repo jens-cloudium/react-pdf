@@ -6,7 +6,7 @@ import {
   Text,
   Image,
   StyleSheet,
-} from '@ascellus-pdf/renderer';
+} from '@jens-2020/renderer';
 
 const styles = StyleSheet.create({
   body: {
