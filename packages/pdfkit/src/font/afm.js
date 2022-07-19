@@ -144,9 +144,14 @@ function parse(contents) {
         if (!/^CH?\s/.test(line)) {
           continue;
         }
-        // var name = line.match(/\bN\s+(\.?\w+)\s*;/)[1];
-        var name = line.match(/\bN\s+(.?\.?[\w.]+)\s*;/)[1];
-        obj.glyphWidths[name] = +line.match(/\bWX\s+(\d+)\s*;/)[1];
+        try {
+          var name = line.match(/\bN\s+(\.?\w+)\s*;/)[1];
+          obj.glyphWidths[name] = +line.match(/\bWX\s+(\d+)\s*;/)[1];
+        } catch (error) {
+          console.log(error);
+          console.log(line);
+        }
+        // var name = line.match(/\bN\s+(.?\.?[\w.]+)\s*;/)[1];
         break;
 
       case 'KernPairs':
