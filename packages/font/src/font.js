@@ -1,5 +1,5 @@
 /* eslint-disable max-classes-per-file */
-
+import fs from 'fs';
 import isUrl from 'is-url';
 import fetch from 'cross-fetch';
 import * as fontkit from 'fontkit';
@@ -66,7 +66,18 @@ class FontSource {
       const data = await fetchFont(this.src, { method, body, headers });
       this.data = fontkit.create(data, postscriptName);
     } else if (!BROWSER) {
-      this.data = await fontkit.open(this.src, postscriptName);
+      const src = fs.readFileSync(this.src);
+      if (Buffer.isBuffer(src)) {
+        this.data = fontkit.create(src, this.fontFamily);
+      } else if (src instanceof Uint8Array) {
+        this.data = fontkit.create(Buffer.from(src), this.fontFamily);
+      } else if (src instanceof ArrayBuffer) {
+        this.data = fontkit.create(
+          Buffer.from(new Uint8Array(src)),
+          this.fontFamily,
+        );
+      }
+      // this.data = await fontkit.open(this.src, postscriptName);
     }
   }
 
