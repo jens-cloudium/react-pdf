@@ -1,5 +1,39 @@
 # @jens-2020/renderer
 
+## 3.0.0
+
+### Major Changes
+
+- [#1908](https://github.com/diegomura/react-pdf/pull/1908) [`d1f3d5b`](https://github.com/jens-cloudium/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d) Thanks [@diegomura](https://github.com/diegomura)! - chore: use fontkit mainline repo + drop node 12
+
+### Minor Changes
+
+- [`d751d6f`](https://github.com/jens-cloudium/react-pdf/commit/d751d6f3999ed2e038955329a666d5697642de28) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+* [#1891](https://github.com/diegomura/react-pdf/pull/1891) [`a5a933c`](https://github.com/jens-cloudium/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81) Thanks [@carlobeltrame](https://github.com/carlobeltrame)! - feat: compatibility with modern web bundlers and browsers
+
+- [`04b1eb3`](https://github.com/jens-cloudium/react-pdf/commit/04b1eb394e20d84d57cd93b250d902009d52bddf) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+### Patch Changes
+
+- [#1604](https://github.com/diegomura/react-pdf/pull/1604) [`7eefc33`](https://github.com/jens-cloudium/react-pdf/commit/7eefc3323390c59bf6d4f923749526831572ef1a) Thanks [@jeetiss](https://github.com/jeetiss)! - fix: skip empty text instance creation in jsx conditions
+
+* [`5211f86`](https://github.com/jens-cloudium/react-pdf/commit/5211f86da173f1c47b252a6e255adc2cff76f30c) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Google Font Support
+
+- [#1924](https://github.com/diegomura/react-pdf/pull/1924) [`3b054b7`](https://github.com/jens-cloudium/react-pdf/commit/3b054b711f5dc0b1c4fd29feaf85b430baad2663) Thanks [@adamduncan](https://github.com/adamduncan)! - fix: bad type on onClick
+
+* [#1929](https://github.com/diegomura/react-pdf/pull/1929) [`9996158`](https://github.com/jens-cloudium/react-pdf/commit/9996158636edf2118c4a6dcce08a00408b982993) Thanks [@diegomura](https://github.com/diegomura)! - feat: remove blob stream dependency
+
+- [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Gelasio added
+
+- Updated dependencies [[`d751d6f`](https://github.com/jens-cloudium/react-pdf/commit/d751d6f3999ed2e038955329a666d5697642de28), [`a5a933c`](https://github.com/jens-cloudium/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81), [`5fe9754`](https://github.com/jens-cloudium/react-pdf/commit/5fe9754f21f103e17d1b70498ee7961cde779b22), [`d1f3d5b`](https://github.com/jens-cloudium/react-pdf/commit/d1f3d5b9b4103705e95e2160347ee253d842ed5d), [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9), [`5211f86`](https://github.com/jens-cloudium/react-pdf/commit/5211f86da173f1c47b252a6e255adc2cff76f30c), [`04b1eb3`](https://github.com/jens-cloudium/react-pdf/commit/04b1eb394e20d84d57cd93b250d902009d52bddf), [`27403f9`](https://github.com/jens-cloudium/react-pdf/commit/27403f9a6ac1bbcfb144afc201c4a3e5aca25cbd), [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9), [`9996158`](https://github.com/jens-cloudium/react-pdf/commit/9996158636edf2118c4a6dcce08a00408b982993), [`1a89506`](https://github.com/jens-cloudium/react-pdf/commit/1a89506b4d325822d1a60a8f964434a6f6eb2d3f), [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9)]:
+  - @jens-2020/font@2.3.0
+  - @jens-2020/layout@3.2.0
+  - @jens-2020/pdfkit@3.0.0
+  - @jens-2020/primitives@3.1.0
+  - @jens-2020/render@3.3.0
+  - @jens-2020/types@2.2.0
+
 ## 2.3.0
 
 ### Minor Changes

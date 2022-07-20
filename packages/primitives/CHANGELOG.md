@@ -1,5 +1,19 @@
 # @jens-2020/primitives
 
+## 3.1.0
+
+### Minor Changes
+
+- [`d751d6f`](https://github.com/jens-cloudium/react-pdf/commit/d751d6f3999ed2e038955329a666d5697642de28) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+* [`04b1eb3`](https://github.com/jens-cloudium/react-pdf/commit/04b1eb394e20d84d57cd93b250d902009d52bddf) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+### Patch Changes
+
+- [`5211f86`](https://github.com/jens-cloudium/react-pdf/commit/5211f86da173f1c47b252a6e255adc2cff76f30c) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Google Font Support
+
+* [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Gelasio added
+
 ## 3.0.1
 
 ### Patch Changes

@@ -1,5 +1,25 @@
 # @jens-2020/render
 
+## 3.3.0
+
+### Minor Changes
+
+- [`d751d6f`](https://github.com/jens-cloudium/react-pdf/commit/d751d6f3999ed2e038955329a666d5697642de28) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+* [`04b1eb3`](https://github.com/jens-cloudium/react-pdf/commit/04b1eb394e20d84d57cd93b250d902009d52bddf) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - New release
+
+### Patch Changes
+
+- [`5211f86`](https://github.com/jens-cloudium/react-pdf/commit/5211f86da173f1c47b252a6e255adc2cff76f30c) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Google Font Support
+
+* [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9) Thanks [@jens-cloudium](https://github.com/jens-cloudium)! - Gelasio added
+
+* Updated dependencies [[`d751d6f`](https://github.com/jens-cloudium/react-pdf/commit/d751d6f3999ed2e038955329a666d5697642de28), [`a5a933c`](https://github.com/jens-cloudium/react-pdf/commit/a5a933c9733e4c77338ef76a2b3545b84a646a81), [`4bb97c3`](https://github.com/jens-cloudium/react-pdf/commit/4bb97c3b92e82d7d7be2698c770f42560c6fcab6), [`5211f86`](https://github.com/jens-cloudium/react-pdf/commit/5211f86da173f1c47b252a6e255adc2cff76f30c), [`04b1eb3`](https://github.com/jens-cloudium/react-pdf/commit/04b1eb394e20d84d57cd93b250d902009d52bddf), [`c4562be`](https://github.com/jens-cloudium/react-pdf/commit/c4562be9b4c2befa3f4aa74b8d4fcd283d833ef9)]:
+  - @jens-2020/fns@2.0.0
+  - @jens-2020/primitives@3.1.0
+  - @jens-2020/textkit@4.1.0
+  - @jens-2020/types@2.2.0
+
 ## 3.2.0
 
 ### Minor Changes

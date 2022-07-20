@@ -1,6 +1,6 @@
 {
   "name": "@jens-2020/render",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "license": "MIT",
   "description": "A render engine for Node and the browser",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -19,10 +19,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@jens-2020/fns": "1.0.0",
-    "@jens-2020/primitives": "^3.0.0",
-    "@jens-2020/textkit": "^4.0.0",
-    "@jens-2020/types": "^2.1.0",
+    "@jens-2020/fns": "2.0.0",
+    "@jens-2020/primitives": "^3.1.0",
+    "@jens-2020/textkit": "^4.1.0",
+    "@jens-2020/types": "^2.2.0",
     "abs-svg-path": "^0.1.1",
     "color-string": "^1.5.3",
     "normalize-svg-path": "^1.1.0",

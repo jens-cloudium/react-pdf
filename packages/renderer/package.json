@@ -1,6 +1,6 @@
 {
   "name": "@jens-2020/renderer",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "types": "index.d.ts",
@@ -26,12 +26,12 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
-    "@jens-2020/font": "^2.2.1",
-    "@jens-2020/layout": "^3.1.2",
-    "@jens-2020/pdfkit": "^2.4.0",
-    "@jens-2020/primitives": "^3.0.0",
-    "@jens-2020/render": "^3.2.0",
-    "@jens-2020/types": "^2.1.0",
+    "@jens-2020/font": "^2.3.0",
+    "@jens-2020/layout": "^3.2.0",
+    "@jens-2020/pdfkit": "^3.0.0",
+    "@jens-2020/primitives": "^3.1.0",
+    "@jens-2020/render": "^3.3.0",
+    "@jens-2020/types": "^2.2.0",
     "queue": "^6.0.1",
     "react-reconciler": "^0.23.0",
     "scheduler": "^0.17.0"
