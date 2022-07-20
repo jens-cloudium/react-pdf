@@ -3,7 +3,7 @@ name: CI
 env:
   FORCE_COLOR: 2
   NODE: 14
-  GITHUB_TOKEN: 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
+  GITHUB_TOKEN: ${{ GITHUB_TOKEN }} 
 
 on:
   pull_request:
